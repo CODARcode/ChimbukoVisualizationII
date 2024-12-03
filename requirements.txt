@@ -14,7 +14,7 @@ Flask-Script==2.0.6
 Flask-SocketIO==2.9.6
 Flask-SQLAlchemy==2.5.1
 flit_core==3.9.0
-gevent==23.7.0
+gevent==23.9.0
 greenlet==2.0.2
 idna==3.7
 itsdangerous==2.0.1
