@@ -4,11 +4,8 @@ set -eux pipefail
 
 env
 
-ls -halF $RUN_DIR
-
 pushd $RUN_DIR
 git config --global --add safe.directory $RUN_DIR
-git checkout actions_unstable
 
 mkdir -p data/grid
 ln -s /Downloads/repeat_1rank data/grid/
