@@ -42,7 +42,7 @@
     "history": "^4.9.0",
     "moment": "^2.29.4",
     "ncp": "^2.0.0",
-    "node-gyp": "^8.0.0",
+    "node-gyp": "^12.1.0",
     "path-to-regexp": "^8.2.0",
     "react-chartjs-2": "^2.7.6",
     "react-redux": "^7.1.1",
